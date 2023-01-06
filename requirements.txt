@@ -1,0 +1,8 @@
+nornir==3.2.0
+nornir-csv==0.3.0
+nornir-napalm==0.1.2
+nornir-utils==0.1.2
+pypinger==2.0.3
+requests==2.25.1
+rich==9.13.0
+netbox 3.4.2
