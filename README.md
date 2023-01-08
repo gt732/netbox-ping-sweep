@@ -3,7 +3,7 @@
 
 This code is used to find live hosts on a network, retrieve information about those hosts using Napalm, and create a new device in the Netbox database with specified parameters.
 
-## This test was performed in a lab with a mix of Cisco IOSv and CSRV devices only.
+## This test was performed in a lab with a mix of Cisco vIOS and CSRV devices only.
 
 How it works
 
